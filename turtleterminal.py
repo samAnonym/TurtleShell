@@ -28,7 +28,7 @@ print("""████████╗██████╗ ██╗   ██╗�
 
                                                                                            """)
 
-print("by Samir Askerov                                       ")
+print("by samAnonym                                       ")
 
 s.listen(5)
 print(f"Listening for connection as {str(args.LHOST)}:{args.PORT}")
