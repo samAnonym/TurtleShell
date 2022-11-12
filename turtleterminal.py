@@ -6,7 +6,7 @@ import sys
 import argparse
 from datetime import date
 import keyboard
-import imp
+
 
 parser = argparse.ArgumentParser(description ='Create reverse shell connection. This is a terminal version of TurtleShell')
 parser.add_argument('-l','--LHOST', type=str, metavar='',required=True,help='Server Host')
